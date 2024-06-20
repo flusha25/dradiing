@@ -1,0 +1,7 @@
+2024-06-13 21:27:21,997 [INFO] Exchange connection closed.
+2024-06-13 21:37:17,213 [INFO] Exchange connection closed.
+2024-06-13 22:12:15,989 [INFO] Exchange connection closed.
+2024-06-20 23:14:54,838 [INFO] Exchange connection closed.
+2024-06-20 23:40:00,130 [INFO] Exchange connection closed.
+2024-06-21 00:03:34,444 [INFO] Exchange connection closed.
+2024-06-21 00:42:13,063 [INFO] Exchange connection closed.

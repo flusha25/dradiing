@@ -1,3 +1,4 @@
+
 import logging
 from telegram import Bot
 from telegram.error import TelegramError
@@ -10,5 +11,6 @@ bot = Bot(token=settings.TELEGRAM_TOKEN)
 async def send_telegram_message(message):
     try:
         await bot.send_message(chat_id=settings.TELEGRAM_CHAT_ID, text=message)
+        print('1')
     except TelegramError as e:
         logger.error(f"Failed to send Telegram message: {e}")
